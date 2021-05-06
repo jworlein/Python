@@ -1,4 +1,4 @@
-# Python Homework - Py Me Up, Charlie
+# Py Me Up, Charlie
 
 ## Background
 
